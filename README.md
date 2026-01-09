@@ -41,7 +41,7 @@ QAT needs slightly higher LR or maybe 100k extra rows to reach similar loss.
 
 ## Benchmark results
 
-I have a custom benchmark for that dataset which is approximately 5% of each book in the dataset, with hard negatives added in.
+I have a custom benchmark for that dataset (based on withheld data) which is approximately 5% of each book in the dataset, with hard negatives added in.
 
 (The negatives aren't super hard, I'll probably make an improved version)
 
