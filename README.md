@@ -181,10 +181,10 @@ Mean Distance  : 0.036391
 ### QAT, unquantized vs. int8
 
 ```
-Min Similarity  : 0.809801
-Max Similarity  : 0.988582
-Mean Similarity : 0.967978
-Mean Distance   : 0.032022
+Min Similarity : 0.809801
+Max Similarity : 0.988582
+Mean Similarity: 0.967978
+Mean Distance  : 0.032022
 ```
 
 Overall, cosine similarity is still pretty close for both of the models, however the QAT has drifted less from it's unquantized parent.
