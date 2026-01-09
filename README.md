@@ -187,7 +187,7 @@ Mean Similarity: 0.967978
 Mean Distance  : 0.032022
 ```
 
-Overall, cosine similarity is still pretty close for both of the models, however the QAT has drifted less from it's unquantized parent.
+Overall, cosine similarity is still pretty close for both of the quantized models, however the QAT has drifted less from it's unquantized parent.
 
 ## Quantization
 
