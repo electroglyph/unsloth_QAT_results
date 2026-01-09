@@ -37,7 +37,7 @@ Loss curve without QAT (final loss = 0.0869):
 
 Definitely seems to slow down convergence a bit, but not a huge deal.
 
-QAT need slightly higher LR or maybe 100k extra rows to reach
+QAT needs slightly higher LR or maybe 100k extra rows to reach similar loss.
 
 ## Benchmark results
 
